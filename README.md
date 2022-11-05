@@ -45,20 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-## 💻Iniciando Projeto:
-
-ide
-
-terminal - npm run dev
-
-abrir no navegador endereço mostrado
-
-Trocar Logo do cartão
-
-abrir navegador
-
-F12 - Console
-
-Digite: globalThis.setCardType(" digite o nome do cartão")
-
 Feito com ♥ by Rocketseat & Luan Lucas.
